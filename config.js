@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Instagram',
-			icon: 'instagram',
-			link: 'https://www.instagram.com/?hl=es-la',
+			name: 'Keep',
+			icon: 'lightbulb',
+			link: 'https://keep.google.com/',
 		},
 		{
 			id: '6',
@@ -135,46 +135,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'graduation-cap',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Correo U',
+					link: 'https://mail.google.com/mail/u/2/#inbox',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'UdeA',
+					link: 'https://www.udea.edu.co/wps/portal/udea/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIj8nKt8jNTrMoLivV88tMz8_QLsh0VAZSk7Xs!/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Classroom',
+					link: 'https://classroom.google.com/u/2/h?hl=es&pli=1',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Ingenia',
+					link: 'https://virtualingenieriaudea.co/login/index.php',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'lightbulb',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'ChatGPT',
+					link: 'https://chat.openai.com/chat',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Gemini',
+					link: 'https://gemini.google.com/app',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Drive',
+					link: 'https://drive.google.com/drive/u/1/my-drive',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'FMHY',
+					link: 'https://fmhy.net/',
 				},
 			],
 		},
